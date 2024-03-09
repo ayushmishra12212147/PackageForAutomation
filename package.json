@@ -1,0 +1,22 @@
+{
+  "name": "automaticwordpress",
+  "version": "1.0.0",
+  "description": "It will record all the letters pressed on the keyboard while it remains in background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmishra12212147/PackageForAutomation.git"
+  },
+  "keywords": [
+    "Automatic"
+  ],
+  "author": "Ayush Kumar Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushmishra12212147/PackageForAutomation/issues"
+  },
+  "homepage": "https://github.com/ayushmishra12212147/PackageForAutomation#readme"
+}
